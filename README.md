@@ -91,6 +91,6 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle" width="846" height="150" alt="viledev-official" />
+<a align="center" href="#" target="_blank">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle" width="1000" height="150" alt="viledev-official" />
 </a>
