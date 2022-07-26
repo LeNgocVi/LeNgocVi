@@ -67,6 +67,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
+  <!-- <a href="#" target="blank">
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="vile-blog" />
+  </a> -->
   <a href="https://www.facebook.com/profile.php?id=100024789193662" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vile-facebook" />
   </a>
@@ -88,8 +91,6 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<!-- <a href="#" target="_blank"> -->
-<div>![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle)</div>
-  <!-- <img src="svg/vile-quotes.svg" width="846" height="150" alt="viledev-official" /> -->
-  
-<!-- </a> -->
+<a href="#" target="_blank">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle" width="846" height="150" alt="viledev-official" />
+</a>
