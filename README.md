@@ -88,8 +88,8 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank"> -->
 <div>![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle)</div>
   <!-- <img src="svg/vile-quotes.svg" width="846" height="150" alt="viledev-official" /> -->
   
-</a>
+<!-- </a> -->
