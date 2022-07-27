@@ -92,5 +92,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a align="center" href="#" target="_blank">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle" width="1000" height="150" alt="viledev-official" />
+  <!-- <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=zues&font=Gabrielle" width="1000" height="150" alt="viledev-official" /> -->
+          <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
+        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
 </a>
