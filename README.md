@@ -50,8 +50,7 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-
-<a align="center"><img src="https://komarev.com/ghpvc/?username=LeNgocVi" /></a>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=LeNgocVi"/></div>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
